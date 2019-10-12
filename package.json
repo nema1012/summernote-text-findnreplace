@@ -1,0 +1,10 @@
+{
+  "name": "nema-summernote-text-findnreplace",
+  "version": "1.0.0",
+  "description": "Summernote plugin to edit image attributes",
+  "main": "summernote-text-findnreplace.js",
+  "author": "nema1012",
+  "dependencies": {
+    "summernote": "^0.8.2"
+  }
+}
